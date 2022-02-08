@@ -8,8 +8,8 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/joho/godotenv"
-	"github.com/nursanamar/uinnotifier/notifier"
-	"github.com/nursanamar/uinnotifier/recorder"
+	"github.com/nursanamar/uinnotifier/src/notifier"
+	"github.com/nursanamar/uinnotifier/src/recorder"
 )
 
 type Announcement struct {
